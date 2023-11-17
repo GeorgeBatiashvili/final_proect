@@ -104,7 +104,7 @@
 
     .artwork_background_h {
         font-size: 24px;
-        text-wrap: nowrap;
+        flex-wrap: nowrap;
     }
 
     .artwork_button {
@@ -116,7 +116,7 @@
     .artwork_form_input {
         width: 200px;
     }
-
+}
     @media(max-width:380px) {
 
         /* This is section one of Artworks */
@@ -137,3 +137,4 @@
             width: 34px;
         height: 34px;
         }
+    }

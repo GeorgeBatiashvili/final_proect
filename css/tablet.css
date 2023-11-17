@@ -37,6 +37,8 @@ footer {
     padding: 24px;
 }
 
+}
+
 
 @media(max-width:670px) {
 
@@ -109,7 +111,7 @@ iframe {
 }
 
 
-
+}
 
 
 @media(max-width:585px) {
@@ -218,7 +220,7 @@ display: none;
 
 
 
-
+}
 
 
 
@@ -297,3 +299,4 @@ display: none;
             margin: 24px 30px;
         }
 
+    }
